@@ -15,8 +15,8 @@ public class HashMapExample {
         hm.put("ggg",""); // null val
 
         Hashtable<String,String> ht = new Hashtable<>();
-        ht.put("","value1");
-        ht.put("","value5");
+        ht.put("ggh","value1");
+        ht.put("hhh","value5");
         ht.put("aaa","value4");
         ht.put("user3","");
         ht.put("stuer2","");
