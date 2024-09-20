@@ -2,7 +2,7 @@ package interview_programs;
 
 public class WordsReversal {
     public static void main(String[] args) {
-        String str = "cow is white is milk";
+        String str = "cow is white is milk as snow";
 
         String[] input_str = str.split(" ");
 
