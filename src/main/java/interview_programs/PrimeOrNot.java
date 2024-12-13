@@ -10,8 +10,8 @@ public class PrimeOrNot {
            is_prime=false;
         }
 
-        for(int i=2;i<i/2;i++){
-            if(i%2==0){
+        for(int i=2;i<n/2;i++){
+            if(n%i==0){
                 is_prime=false;
                 break;
             }
